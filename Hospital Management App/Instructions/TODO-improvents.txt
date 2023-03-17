@@ -1,0 +1,76 @@
+Author: Godwin Bime
+Version:--
+#####################################################################################################
+
+*****************Perfecting this class project to add to my resume***********************************
+-> THE FINAL APPLICATION WILL BE A DESKTOP APPLICATION.
+-> WEB VERSION WILL BE BUILT USING JAVA.
+-> MOBILE VERSION WILL BE BUILT USING KOTLIN.
+
+#####################################################################################################
+                                  INSTRUCTIONS
+#####################################################################################################
+-> Connect the app to phpMyAdmin where data will be stored.
+-> Three people will have access to the system based on their roles
+-> Doctors, nurses and System administrators.
+-> The nurse can register a patient.
+-> The cannot edit a patients information once registered.
+-> The doctors and system administrators will have full read write permissions.
+-> Create a login page.
+-> Provide 3 login options; Nurse, Doctor, System Admin.
+
+             ###########################################
+                       Profile view by Nurse
+             ###########################################
+                 firstName:
+                 middleName:
+                 lastName:
+                 suffix:
+                 ailment:[ENCRYPTED]
+                 doctor:
+                 treated:1
+                 priority:1
+                 Date last visited:
+                 Profile picture:
+
+
+             ###########################################
+                        Profile view by Doctor
+             ###########################################
+               firstName:
+               middleName:
+               lastName:
+               suffix:
+               ailment:
+               doctor:
+               treated:1
+               priority:1
+               Date last visited:
+               Marital Status:
+               Emergency contact:
+               Phone #:
+               Street address:
+               City:
+               State:
+               Zipcode:
+               Country:
+               Profile picture:
+
+             ###########################################
+                       Profile view by System Admin
+             ###########################################
+                firstName:
+                middleName:
+                lastName:
+                suffix:
+                ailment:
+                doctor:
+                treated:1
+                priority:1
+                Date last visited
+                Street address:
+                City:
+                State:
+                Zipcode:
+                Country:
+                Profile picture:
