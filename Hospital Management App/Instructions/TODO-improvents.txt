@@ -18,6 +18,29 @@ Version:--
 -> The doctors and system administrators will have full read write permissions.
 -> Create a login page.
 -> Provide 3 login options; Nurse, Doctor, System Admin.
+-> Assign the patient a bed upon admission into the hospital.
+-> Get list of patient's allowed visitors
+
+#####################################################################################################
+           **********   This is a desktop application that can work on and offline.
+                        If there is no internet access, the hospital should be able
+                        serve patients. Data will be stored both offline and in a
+                        server out somewhere. Sensitive data will not be stored
+                        offline. The data available offline include, names, duration
+                        at the hospital, profile picture, last 4 digits of the patients
+                        admission ID number, contact number, room admitted in...
+#####################################################################################################
+
+             ###########################################
+                       Tabs
+             ###########################################
+             -> Home
+             -> Finance.
+             -> Help
+             -> Profile
+             -> Search
+#####################################################################################################
+
 
              ###########################################
                        Profile view by Nurse
@@ -74,3 +97,16 @@ Version:--
                 Zipcode:
                 Country:
                 Profile picture:
+#####################################################################################################
+#####################################################################################################
+
+
+             ###########################################
+                       System access Record keeping
+             ###########################################
+                 firstName:
+                 middleName:
+                 lastName:
+                 ID Number:
+                 Date/Time accessed:
+                 Profile picture:
